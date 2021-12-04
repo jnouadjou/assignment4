@@ -1,0 +1,17 @@
+<entries>
+    <entry term="game1"  part="game1">
+        <definition>
+            designed by rockstar games
+        </definition>
+    </entry>
+    <entry term="game2" part="game2">
+        <definition>
+            designed by Konami
+        </definition>
+    </entry>
+    <entry term="game3" part="game3">
+        <definition>
+            designed by 2k sports
+        </definition>
+    </entry>
+</entries>
